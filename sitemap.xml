@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://stleathers.com/</loc>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://stleathers.com/index.jsp</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://stleathers.com/about-us.jsp</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://stleathers.com/hair-on-leather.jsp</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://stleathers.com/harness-oil-pullup-leather.jsp</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://stleathers.com/patent-finish-leather.jsp</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://stleathers.com/italian-finished-leather.jsp</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://stleathers.com/leather-belt-bags.jsp</loc>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://stleathers.com/contact.jsp</loc>
+  <priority>0.80</priority>
+</url>
+</urlset>
